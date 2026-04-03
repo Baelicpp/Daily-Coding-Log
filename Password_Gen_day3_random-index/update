@@ -1,0 +1,1 @@
+i fixed the code from only generating a 50 digit password by changing the for loop from "for (int i = 0; i < 50; i++" to for (int i = 0; i < length; i++", this was very simple but i was lost for 10min just looking at it
